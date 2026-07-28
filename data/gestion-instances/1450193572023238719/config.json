@@ -1,0 +1,45 @@
+{
+  "_globalBuyers": [
+    {
+      "id": "1450193572023238719",
+      "addedAt": 1785151292415,
+      "addedBy": "1450193572023238719"
+    }
+  ],
+  "1530322953219215380": {
+    "logs": {
+      "mod": null,
+      "msg": null,
+      "voice": null,
+      "joinleave": null,
+      "raid": null
+    },
+    "ticket": {
+      "panelChannelId": null,
+      "categoryId": null,
+      "staffRoleId": null,
+      "transcriptChannelId": null,
+      "maxOpenPerUser": 1,
+      "options": [],
+      "claimEnabled": false,
+      "autoclaim": false,
+      "autoDelete": false,
+      "closeOnLeave": false,
+      "claimLock": false,
+      "claimButton": false,
+      "closeButton": false,
+      "transcriptDM": false,
+      "forbiddenRoles": []
+    },
+    "autoroleId": null,
+    "antiraid": {
+      "enabled": false,
+      "joinLimit": 5,
+      "intervalSeconds": 10,
+      "action": "notify"
+    },
+    "wl": [],
+    "managers": [],
+    "prefix": null
+  }
+}
